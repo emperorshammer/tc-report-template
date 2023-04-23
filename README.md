@@ -29,7 +29,7 @@ The custom "kvRecord" class is applied to `<div>` to create a tabular "list" of 
 
 Use of `<table>` is discouraged, as there isn't a lot you can do to make this work well on mobile.  If you need tables, wrap the table in a `<div>` with the `table-container` class applied.  The table will still expand out of the viewport, however it will be correctly horizontally scrollable on mobile, and will not break the display of the rest of the page.
 
-By using our CSS framework, your layout can with *with* the site instead of fighting against it.
+By using our CSS framework, your layout can work *with* the site instead of fighting against it.
 
 ```
 <div class="table-container">
